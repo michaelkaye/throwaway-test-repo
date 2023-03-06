@@ -1,0 +1,16 @@
+# Uploading tester for tcms work
+
+name: End to end tests for end to end tests testing upload test.
+jobs:
+   upload:
+      name: Upload
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v3
+        - name: Activate plugin
+          uses: vector-im/kiwi-tcms-uploader
+          with:
+            file-pattern: ./junit-files/*.xml
+            username: ${{ secrets.TCMS_USERNAME }}
+            password: ${{ secrets.TCMS_PASSWORD }}
+            url: ${{ secrets.TCMS_URL }}

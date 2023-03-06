@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="50.181" tests="3" failures="0">
+  <testsuite name="" timestamp="2023-03-06T13:19:36" tests="0" file="cypress/e2e/login/login.spec.ts" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="Root Suite Login" timestamp="2023-03-06T13:19:36" tests="0" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="Root Suite Login m.login.password" timestamp="2023-03-06T13:19:36" tests="1" time="19.410" failures="0">
+    <testcase name="Login m.login.password logs in with an existing account and lands on the home screen" time="18.481" classname="logs in with an existing account and lands on the home screen">
+    </testcase>
+  </testsuite>
+  <testsuite name="Root Suite Login logout" timestamp="2023-03-06T13:19:55" tests="2" time="30.722" failures="0">
+    <testcase name="Login logout should go to login page on logout" time="11.940" classname="should go to login page on logout">
+    </testcase>
+    <testcase name="Login logout should respect logout_redirect_url" time="17.249" classname="should respect logout_redirect_url">
+    </testcase>
+  </testsuite>
+</testsuites>

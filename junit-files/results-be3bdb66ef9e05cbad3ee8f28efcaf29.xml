@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="118.857" tests="4" failures="0">
+  <testsuite name="" timestamp="2023-03-06T13:16:30" tests="0" file="cypress/e2e/polls/polls.spec.ts" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="Root Suite Polls" timestamp="2023-03-06T13:16:30" tests="4" time="118.820" failures="0">
+    <testcase name="Polls should be creatable and votable" time="30.137" classname="should be creatable and votable">
+    </testcase>
+    <testcase name="Polls should be editable from context menu if no votes have been cast" time="19.707" classname="should be editable from context menu if no votes have been cast">
+    </testcase>
+    <testcase name="Polls should not be editable from context menu if votes have been cast" time="22.710" classname="should not be editable from context menu if votes have been cast">
+    </testcase>
+    <testcase name="Polls should be displayed correctly in thread panel" time="42.466" classname="should be displayed correctly in thread panel">
+    </testcase>
+  </testsuite>
+</testsuites>

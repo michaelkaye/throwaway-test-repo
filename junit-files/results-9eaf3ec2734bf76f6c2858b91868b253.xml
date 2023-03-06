@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="15.577" tests="1" failures="0">
+  <testsuite name="" timestamp="2023-03-06T13:23:18" tests="0" file="cypress/e2e/update/update.spec.ts" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="Root Suite Update" timestamp="2023-03-06T13:23:19" tests="1" time="15.537" failures="0">
+    <testcase name="Update should navigate to ?updated=$VERSION if realises it is immediately out of date on load" time="14.584" classname="should navigate to ?updated=$VERSION if realises it is immediately out of date on load">
+    </testcase>
+  </testsuite>
+</testsuites>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="79.118" tests="3" failures="0">
+  <testsuite name="" timestamp="2023-03-06T13:18:46" tests="0" file="cypress/e2e/user-onboarding/user-onboarding-new.ts" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="Root Suite User Onboarding (new user)" timestamp="2023-03-06T13:18:46" tests="3" time="79.078" failures="0">
+    <testcase name="User Onboarding (new user) page is shown and preference exists" time="25.597" classname="page is shown and preference exists">
+    </testcase>
+    <testcase name="User Onboarding (new user) app download dialog" time="18.961" classname="app download dialog">
+    </testcase>
+    <testcase name="User Onboarding (new user) using find friends action should increase progress" time="31.056" classname="using find friends action should increase progress">
+    </testcase>
+  </testsuite>
+</testsuites>
