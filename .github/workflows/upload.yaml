@@ -1,6 +1,7 @@
 # Uploading tester for tcms work
 
 name: End to end tests for end to end tests testing upload test.
+on: push
 jobs:
    upload:
       name: Upload
