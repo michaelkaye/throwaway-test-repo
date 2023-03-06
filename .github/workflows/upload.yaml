@@ -9,7 +9,7 @@ jobs:
       steps:
          - uses: actions/checkout@v3
          - name: Activate plugin
-           uses: vector-im/kiwi-tcms-uploader@main
+           uses: vector-im/kiwitcms-upload-action@main
            with:
               file-pattern: ./junit-files/*.xml
               kiwi-username: ${{ secrets.TCMS_USERNAME }}
