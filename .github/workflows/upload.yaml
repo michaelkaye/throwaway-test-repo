@@ -14,5 +14,4 @@ jobs:
               file-pattern: ./junit-files/*.xml
               kiwi-username: ${{ secrets.TCMS_USERNAME }}
               kiwi-password: ${{ secrets.TCMS_PASSWORD }}
-              kiwi-url: ${{ secrets.TCMS_URL }}
               product: 2
