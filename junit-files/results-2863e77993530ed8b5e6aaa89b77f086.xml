@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="17.654" tests="1" failures="0">
+  <testsuite name="" timestamp="2023-03-08T17:12:46" tests="0" file="cypress/e2e/regression-tests/pills-click-in-app.spec.ts" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="Root Suite Pills" timestamp="2023-03-08T17:12:46" tests="1" time="17.627" failures="0">
+    <testcase name="Pills should navigate clicks internally to the app" time="16.580" classname="should navigate clicks internally to the app">
+    </testcase>
+  </testsuite>
+</testsuites>

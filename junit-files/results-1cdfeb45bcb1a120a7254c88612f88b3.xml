@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="45.411" tests="3" failures="0">
+  <testsuite name="" timestamp="2023-03-08T17:09:25" tests="0" file="cypress/e2e/widgets/widget-pip-close.spec.ts" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="Root Suite Widget PIP" timestamp="2023-03-08T17:09:25" tests="3" time="45.382" failures="0">
+    <testcase name="Widget PIP should be closed on leave" time="16.732" classname="should be closed on leave">
+    </testcase>
+    <testcase name="Widget PIP should be closed on kick" time="13.912" classname="should be closed on kick">
+    </testcase>
+    <testcase name="Widget PIP should be closed on ban" time="12.277" classname="should be closed on ban">
+    </testcase>
+  </testsuite>
+</testsuites>

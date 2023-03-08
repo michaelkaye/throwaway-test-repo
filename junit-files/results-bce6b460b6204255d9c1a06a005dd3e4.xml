@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="12.113" tests="1" failures="0">
+  <testsuite name="" timestamp="2023-03-08T17:14:07" tests="0" file="cypress/e2e/user-menu/user-menu.spec.ts" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="Root Suite User Menu" timestamp="2023-03-08T17:14:07" tests="1" time="12.085" failures="0">
+    <testcase name="User Menu should contain our name &amp; userId" time="11.523" classname="should contain our name &amp; userId">
+    </testcase>
+  </testsuite>
+</testsuites>

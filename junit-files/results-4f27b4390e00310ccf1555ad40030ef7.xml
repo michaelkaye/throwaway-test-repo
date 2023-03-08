@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="34.795" tests="2" failures="0">
+  <testsuite name="" timestamp="2023-03-08T17:10:52" tests="0" file="cypress/e2e/register/register.spec.ts" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="Root Suite Registration" timestamp="2023-03-08T17:10:52" tests="2" time="34.749" failures="0">
+    <testcase name="Registration registers an account and lands on the home screen" time="24.822" classname="registers an account and lands on the home screen">
+    </testcase>
+    <testcase name="Registration should require username to fulfil requirements and be available" time="8.406" classname="should require username to fulfil requirements and be available">
+    </testcase>
+  </testsuite>
+</testsuites>

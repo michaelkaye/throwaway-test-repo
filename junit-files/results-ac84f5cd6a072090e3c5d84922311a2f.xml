@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="176.536" tests="8" failures="1">
+  <testsuite name="" timestamp="2023-03-08T17:02:12" tests="0" file="cypress/e2e/spaces/spaces.spec.ts" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="Root Suite Spaces" timestamp="2023-03-08T17:02:12" tests="8" time="176.499" failures="1">
+    <testcase name="Spaces should allow user to create public space" time="19.779" classname="should allow user to create public space">
+    </testcase>
+    <testcase name="Spaces should allow user to create private space" time="15.701" classname="should allow user to create private space">
+    </testcase>
+    <testcase name="Spaces should allow user to create just-me space" time="13.771" classname="should allow user to create just-me space">
+    </testcase>
+    <testcase name="Spaces should allow user to invite another to a space" time="14.385" classname="should allow user to invite another to a space">
+    </testcase>
+    <testcase name="Spaces should show space invites at the top of the space panel" time="11.555" classname="should show space invites at the top of the space panel">
+    </testcase>
+    <testcase name="Spaces should include rooms in space home" time="11.070" classname="should include rooms in space home">
+    </testcase>
+    <testcase name="Spaces should render subspaces in the space panel only when expanded" time="13.599" classname="should render subspaces in the space panel only when expanded">
+      <failure message="1 accessibility violation was detected: expected 1 to equal 0" type="AssertionError"><![CDATA[AssertionError: 1 accessibility violation was detected: expected 1 to equal 0
+    at Context.eval (webpack:///./node_modules/cypress-axe/dist/index.js:100:0)
+
+      + expected - actual:  failed to generate Mocha diff
+]]></failure>
+    </testcase>
+    <testcase name="Spaces should not soft crash when joining a room from space hierarchy which has a link in its topic" time="16.888" classname="should not soft crash when joining a room from space hierarchy which has a link in its topic">
+    </testcase>
+  </testsuite>
+</testsuites>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="Mocha Tests" time="18.603" tests="1" failures="0">
-  <testsuite name="" timestamp="2023-03-06T13:23:03" tests="0" file="cypress/e2e/location/location.spec.ts" time="0.000" failures="0">
-  </testsuite>
-  <testsuite name="Root Suite Location sharing" timestamp="2023-03-06T13:23:03" tests="1" time="18.557" failures="0">
-    <testcase name="Location sharing sends and displays pin drop location message successfully" time="17.100" classname="sends and displays pin drop location message successfully">
-    </testcase>
-  </testsuite>
-</testsuites>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="Mocha Tests" time="23.164" tests="1" failures="0">
-  <testsuite name="" timestamp="2023-03-06T13:21:55" tests="0" file="cypress/e2e/settings/device-management.spec.ts" time="0.000" failures="0">
-  </testsuite>
-  <testsuite name="Root Suite Device manager" timestamp="2023-03-06T13:21:55" tests="1" time="23.123" failures="0">
-    <testcase name="Device manager should display sessions" time="22.342" classname="should display sessions">
-    </testcase>
-  </testsuite>
-</testsuites>

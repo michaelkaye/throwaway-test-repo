@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="21.414" tests="1" failures="0">
+  <testsuite name="" timestamp="2023-03-08T17:12:17" tests="0" file="cypress/e2e/room/room.spec.ts" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="Root Suite Room Directory" timestamp="2023-03-08T17:12:17" tests="1" time="21.386" failures="0">
+    <testcase name="Room Directory should switch between existing dm rooms without a loader" time="20.255" classname="should switch between existing dm rooms without a loader">
+    </testcase>
+  </testsuite>
+</testsuites>

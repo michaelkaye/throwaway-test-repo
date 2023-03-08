@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="120.506" tests="4" failures="0">
+  <testsuite name="" timestamp="2023-03-08T17:03:36" tests="0" file="cypress/e2e/crypto/crypto.spec.ts" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="Root Suite Cryptography" timestamp="2023-03-08T17:03:36" tests="4" time="120.469" failures="0">
+    <testcase name="Cryptography setting up secure key backup should work" time="21.417" classname="setting up secure key backup should work">
+    </testcase>
+    <testcase name="Cryptography creating a DM should work, being e2e-encrypted / user verification" time="30.016" classname="creating a DM should work, being e2e-encrypted / user verification">
+    </testcase>
+    <testcase name="Cryptography should allow verification when there is no existing DM" time="24.785" classname="should allow verification when there is no existing DM">
+    </testcase>
+    <testcase name="Cryptography should show the correct shield on edited e2e events" time="39.726" classname="should show the correct shield on edited e2e events">
+    </testcase>
+  </testsuite>
+</testsuites>

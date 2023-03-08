@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="Mocha Tests" time="27.566" tests="1" failures="0">
-  <testsuite name="" timestamp="2023-03-06T13:22:02" tests="0" file="cypress/e2e/widgets/events.spec.ts" time="0.000" failures="0">
-  </testsuite>
-  <testsuite name="Root Suite Widget Events" timestamp="2023-03-06T13:22:02" tests="1" time="27.517" failures="0">
-    <testcase name="Widget Events should be updated if user is re-invited into the room with updated state event" time="26.262" classname="should be updated if user is re-invited into the room with updated state event">
-    </testcase>
-  </testsuite>
-</testsuites>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="17.336" tests="1" failures="0">
+  <testsuite name="" timestamp="2023-03-08T17:13:20" tests="0" file="cypress/e2e/one-to-one-chat/one-to-one-chat.spec.ts" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="Root Suite 1:1 chat room" timestamp="2023-03-08T17:13:20" tests="1" time="17.287" failures="0">
+    <testcase name="1:1 chat room should open new 1:1 chat room after leaving the old one" time="16.451" classname="should open new 1:1 chat room after leaving the old one">
+    </testcase>
+  </testsuite>
+</testsuites>

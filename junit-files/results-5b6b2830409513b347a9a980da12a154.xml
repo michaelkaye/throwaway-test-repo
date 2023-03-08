@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="102.697" tests="4" failures="0">
+  <testsuite name="" timestamp="2023-03-08T17:05:45" tests="0" file="cypress/e2e/threads/threads.spec.ts" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="Root Suite Threads" timestamp="2023-03-08T17:05:46" tests="4" time="102.659" failures="0">
+    <testcase name="Threads should be usable for a conversation" time="42.929" classname="should be usable for a conversation">
+    </testcase>
+    <testcase name="Threads can send voice messages" time="15.752" classname="can send voice messages">
+    </testcase>
+    <testcase name="Threads should send location and reply to the location on ThreadView" time="26.303" classname="should send location and reply to the location on ThreadView">
+    </testcase>
+    <testcase name="Threads right panel behaves correctly" time="13.978" classname="right panel behaves correctly">
+    </testcase>
+  </testsuite>
+</testsuites>
