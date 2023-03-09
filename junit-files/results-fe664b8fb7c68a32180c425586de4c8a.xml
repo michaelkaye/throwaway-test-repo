@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="47.223" tests="2" failures="0">
+  <testsuite name="" timestamp="2023-03-06T13:20:19" tests="0" file="cypress/e2e/room-directory/room-directory.spec.ts" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="Root Suite Room Directory" timestamp="2023-03-06T13:20:19" tests="2" time="47.158" failures="0">
+    <testcase name="Room Directory should allow admin to add alias &amp; publish room to directory" time="27.219" classname="should allow admin to add alias &amp; publish room to directory">
+    </testcase>
+    <testcase name="Room Directory should allow finding published rooms in directory" time="17.666" classname="should allow finding published rooms in directory">
+    </testcase>
+  </testsuite>
+</testsuites>

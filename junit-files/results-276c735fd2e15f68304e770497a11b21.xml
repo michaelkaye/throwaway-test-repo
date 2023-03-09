@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="Mocha Tests" time="44.028" tests="1" failures="0">
-  <testsuite name="" timestamp="2023-03-08T17:10:01" tests="0" file="cypress/e2e/lazy-loading/lazy-loading.spec.ts" time="0.000" failures="0">
-  </testsuite>
-  <testsuite name="Root Suite Lazy Loading" timestamp="2023-03-08T17:10:01" tests="1" time="43.998" failures="0">
-    <testcase name="Lazy Loading should handle lazy loading properly even when offline" time="42.167" classname="should handle lazy loading properly even when offline">
-    </testcase>
-  </testsuite>
-</testsuites>

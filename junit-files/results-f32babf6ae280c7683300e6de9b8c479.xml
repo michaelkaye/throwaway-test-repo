@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="134.960" tests="8" failures="0">
+  <testsuite name="" timestamp="2023-03-06T13:14:07" tests="0" file="cypress/e2e/spaces/spaces.spec.ts" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="Root Suite Spaces" timestamp="2023-03-06T13:14:07" tests="8" time="134.931" failures="0">
+    <testcase name="Spaces should allow user to create public space" time="22.130" classname="should allow user to create public space">
+    </testcase>
+    <testcase name="Spaces should allow user to create private space" time="18.345" classname="should allow user to create private space">
+    </testcase>
+    <testcase name="Spaces should allow user to create just-me space" time="16.519" classname="should allow user to create just-me space">
+    </testcase>
+    <testcase name="Spaces should allow user to invite another to a space" time="16.847" classname="should allow user to invite another to a space">
+    </testcase>
+    <testcase name="Spaces should show space invites at the top of the space panel" time="13.392" classname="should show space invites at the top of the space panel">
+    </testcase>
+    <testcase name="Spaces should include rooms in space home" time="11.380" classname="should include rooms in space home">
+    </testcase>
+    <testcase name="Spaces should render subspaces in the space panel only when expanded" time="11.635" classname="should render subspaces in the space panel only when expanded">
+    </testcase>
+    <testcase name="Spaces should not soft crash when joining a room from space hierarchy which has a link in its topic" time="16.803" classname="should not soft crash when joining a room from space hierarchy which has a link in its topic">
+    </testcase>
+  </testsuite>
+</testsuites>

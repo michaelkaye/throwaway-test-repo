@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="27.501" tests="2" failures="0">
+  <testsuite name="" timestamp="2023-03-06T13:21:31" tests="0" file="cypress/e2e/widgets/layout.spec.ts" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="Root Suite Widget Layout" timestamp="2023-03-06T13:21:31" tests="2" time="27.461" failures="0">
+    <testcase name="Widget Layout manually resize the height of the top container layout" time="14.089" classname="manually resize the height of the top container layout">
+    </testcase>
+    <testcase name="Widget Layout programatically resize the height of the top container layout" time="11.482" classname="programatically resize the height of the top container layout">
+    </testcase>
+  </testsuite>
+</testsuites>

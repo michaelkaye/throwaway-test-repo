@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="Mocha Tests" time="17.514" tests="1" failures="0">
-  <testsuite name="" timestamp="2023-03-08T17:13:16" tests="0" file="cypress/e2e/widgets/stickers.spec.ts" time="0.000" failures="0">
-  </testsuite>
-  <testsuite name="Root Suite Stickers" timestamp="2023-03-08T17:13:16" tests="1" time="17.481" failures="0">
-    <testcase name="Stickers should send a sticker to multiple rooms" time="16.543" classname="should send a sticker to multiple rooms">
-    </testcase>
-  </testsuite>
-</testsuites>

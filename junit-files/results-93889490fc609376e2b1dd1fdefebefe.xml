@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="239.129" tests="11" failures="0">
+  <testsuite name="" timestamp="2023-03-06T13:10:09" tests="0" file="cypress/e2e/sliding-sync/sliding-sync.ts" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="Root Suite Sliding Sync" timestamp="2023-03-06T13:10:09" tests="11" time="239.077" failures="0">
+    <testcase name="Sliding Sync should render the Rooms list in reverse chronological order by default and allowing sorting A-Z" time="48.234" classname="should render the Rooms list in reverse chronological order by default and allowing sorting A-Z">
+    </testcase>
+    <testcase name="Sliding Sync should move rooms around as new events arrive" time="19.816" classname="should move rooms around as new events arrive">
+    </testcase>
+    <testcase name="Sliding Sync should not move the selected room: it should be sticky" time="17.472" classname="should not move the selected room: it should be sticky">
+    </testcase>
+    <testcase name="Sliding Sync should show the right unread notifications" time="17.323" classname="should show the right unread notifications">
+    </testcase>
+    <testcase name="Sliding Sync should not show unread indicators" time="17.617" classname="should not show unread indicators">
+    </testcase>
+    <testcase name="Sliding Sync should update user settings promptly" time="14.665" classname="should update user settings promptly">
+    </testcase>
+    <testcase name="Sliding Sync should show and be able to accept/reject/rescind invites" time="22.794" classname="should show and be able to accept/reject/rescind invites">
+    </testcase>
+    <testcase name="Sliding Sync should show a favourite DM only in the favourite sublist" time="13.387" classname="should show a favourite DM only in the favourite sublist">
+    </testcase>
+    <testcase name="Sliding Sync should clear the reply to field when swapping rooms" time="17.714" classname="should clear the reply to field when swapping rooms">
+    </testcase>
+    <testcase name="Sliding Sync should not cancel replies when permalinks are clicked" time="13.917" classname="should not cancel replies when permalinks are clicked">
+    </testcase>
+    <testcase name="Sliding Sync should send unsubscribe_rooms for every room switch" time="17.805" classname="should send unsubscribe_rooms for every room switch">
+    </testcase>
+  </testsuite>
+</testsuites>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="110.248" tests="7" failures="0">
+  <testsuite name="" timestamp="2023-03-06T13:16:41" tests="0" file="cypress/e2e/right-panel/right-panel.spec.ts" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="Root Suite RightPanel" timestamp="2023-03-06T13:16:41" tests="0" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="Root Suite RightPanel in rooms" timestamp="2023-03-06T13:16:41" tests="6" time="95.480" failures="0">
+    <testcase name="RightPanel in rooms should handle clicking add widgets" time="18.728" classname="should handle clicking add widgets">
+    </testcase>
+    <testcase name="RightPanel in rooms should handle viewing export chat" time="12.618" classname="should handle viewing export chat">
+    </testcase>
+    <testcase name="RightPanel in rooms should handle viewing share room" time="12.457" classname="should handle viewing share room">
+    </testcase>
+    <testcase name="RightPanel in rooms should handle viewing room settings" time="14.485" classname="should handle viewing room settings">
+    </testcase>
+    <testcase name="RightPanel in rooms should handle viewing files" time="15.179" classname="should handle viewing files">
+    </testcase>
+    <testcase name="RightPanel in rooms should handle viewing room member" time="15.230" classname="should handle viewing room member">
+    </testcase>
+  </testsuite>
+  <testsuite name="Root Suite RightPanel in spaces" timestamp="2023-03-06T13:18:16" tests="1" time="14.731" failures="0">
+    <testcase name="RightPanel in spaces should handle viewing space member" time="13.756" classname="should handle viewing space member">
+    </testcase>
+  </testsuite>
+</testsuites>
