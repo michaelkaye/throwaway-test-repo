@@ -16,6 +16,6 @@ jobs:
               kiwi-password: ${{ secrets.TCMS_PASSWORD }}
               product: "Element Web"
               product-version: "main"
-              build-id: ${{ env.GITHUB_SHA }}
+              build-id: ${{ github.sha }}
               suite-name: "Cypress E2E"
               summary-template: '$name'
