@@ -14,5 +14,8 @@ jobs:
               file-pattern: ./junit-files/*.xml
               kiwi-username: ${{ secrets.TCMS_USERNAME }}
               kiwi-password: ${{ secrets.TCMS_PASSWORD }}
-              product: 2
-              summary-template: '$suitename $name'
+              product: "Element Web"
+              product-version: "main"
+              build-id: "{{ github.sha }}"
+              suite-name: "Cypress E2E"
+              summary-template: '$name'
