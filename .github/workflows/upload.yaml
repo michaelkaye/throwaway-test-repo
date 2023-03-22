@@ -9,13 +9,14 @@ jobs:
       steps:
          - uses: actions/checkout@v3
          - name: Activate plugin
-           uses: vector-im/kiwitcms-upload-action@main
+           uses: vector-im/kiwitcms-upload-action@v2
            with:
               file-pattern: ./junit-files/*.xml
               kiwi-username: ${{ secrets.TCMS_USERNAME }}
               kiwi-password: ${{ secrets.TCMS_PASSWORD }}
-              product: "Element Web"
+              kiwi-url: "https://public.tenant.kiwitcms.org/xml-rpc/"
+              product: "Michael Test"
               product-version: "main"
               build-id: ${{ github.sha }}
-              suite-name: "Cypress E2E"
+              suite-name: "Cypress"
               summary-template: '$name'
